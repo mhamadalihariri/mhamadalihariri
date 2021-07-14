@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mhamadalihariri
+- 👀 I’m interested in Software Development and Artificial Intelligence
+- 🌱 I’m currently learning Angular, Java Spring Boot, Machine Learning
+- 📫 How to reach me **mhamadali_hariri@hotmail.com"
